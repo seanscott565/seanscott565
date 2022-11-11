@@ -18,17 +18,21 @@
 
 **Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanscott565&count_private=true&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanscott565&count_private=true&theme=dark&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanscott565&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanscott565&theme=dark&layout=compact&hide_border=true)
 
 ![Visitor Count](https://profile-counter.glitch.me/seanscott565/count.svg)
 
+
+
 **My Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seanscott565&repo=snake&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seanscott565&repo=snake&theme=dark&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seanscott565&repo=Weather-App&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seanscott565&repo=Weather-App&theme=dark&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seanscott565&repo=burny-frontend&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seanscott565&repo=burny-frontend&theme=dark&hide_border=true)
+
+
 
