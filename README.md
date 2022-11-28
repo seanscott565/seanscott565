@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning TypeScript, and JavaScript
 - 📫 How to reach me: [Twitter](https://twitter.com/zappexe)
 
-![github-user-contribution (3)](https://user-images.githubusercontent.com/46088993/204399969-ffa9ce38-a7ca-47e2-b812-c1783241d9bc.svg#gh-dark-mode-only)
+![github-user-contribution (2)](https://user-images.githubusercontent.com/46088993/204400202-3259c3f6-3999-4cd3-ae23-fb3320366984.svg#gh-dark-mode-only)
+
 
 
 **Languages and Tools**
