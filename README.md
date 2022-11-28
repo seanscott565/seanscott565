@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning TypeScript, and JavaScript
 - 📫 How to reach me: [Twitter](https://twitter.com/zappexe)
 
-
+<a href=#><img src="contributions.svg"></a>
 
 
 **Languages and Tools**
