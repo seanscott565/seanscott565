@@ -20,7 +20,7 @@
 
 **Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sscottdev5&count_private=true&theme=dark&show_icons=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sscottdev&count_private=true&theme=dark&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sscottdev&theme=dark&layout=compact&hide_border=true)
 
