@@ -18,25 +18,8 @@
 - NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/>
 - Git <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> 
 
-**Stats**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sscottdev&count_private=true&theme=dark&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sscottdev&theme=dark&layout=compact&hide_border=true)
-
 ![Visitor Count](https://profile-counter.glitch.me/sscottdev/count.svg)
 
-
-
-
-
-**My Projects**
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sscottdev&repo=snake&theme=dark&hide_border=true)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sscottdev&repo=Weather-App&theme=dark&hide_border=true)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sscottdev&repo=burny-frontend&theme=dark&hide_border=true)
 
 
 
