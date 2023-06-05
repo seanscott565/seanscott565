@@ -2,7 +2,7 @@
 
 
 **About me**
-- ⚡ I am a 15-year-old Frontend Developer from the United States
+- ⚡ I am a Frontend Developer from the United States
 - 🔭 I’m currently working on a few projects, but they are all private at the moment
 - 🌱 I’m currently learning TypeScript, and JavaScript
 - 📫 How to reach me: [Twitter](https://twitter.com/zappexe)
