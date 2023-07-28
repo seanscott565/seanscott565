@@ -1,10 +1,3 @@
-### Hi there 👋
-
-
-**About me**
-- ⚡ I am a Frontend Developer from the United States
-- 🔭 I’m currently working on a few projects, but they are all private at the moment
-- 🌱 I’m currently learning TypeScript, and JavaScript
 
 
 
